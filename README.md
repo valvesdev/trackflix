@@ -1,2 +1,1 @@
-# trackflix
-Track shows and movies
+Apresentamos TrackFlix, a tua companhia definitiva para seguir e descobrir fantásticos filmes e séries. Impulsionada pela robusta API Trakt.tv, esta app permite acompanhar facilmente o teu conteúdo assistido, explorar novos lançamentos em destaque e receber recomendações personalizadas. Com um design elegante e funcionalidades intuitivas, nunca mais percas um momento cinematográfico. Eleva a tua experiência de entretenimento com TrackFlix - a tua aplicação essencial para estar em sintonia com os teus filmes e séries favoritos.
